@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinod
 - 👀 I’m interested in Data Science / Data Analytics
 - 🌱 I’m currently learning SQL,Python,Power BI
-- 💞️ I’m looking to collaborate on Power BI , Excel , Sql, Python Projects.
+- 💞️ I’m looking to collaborate on Power BI , Excel , Sql,Tableau and Python Projects.
 - 📫 How to reach me vinod.dh1893@gmail.com
 
 <!---
